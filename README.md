@@ -1,5 +1,4 @@
 # 📱 Used Mobile Phone Price Prediction & Market Analysis System
-### University Machine Learning Mini-Project (Semester 5)
 
 An end-to-end, reproducible Machine Learning system that models used mobile phone valuations, market tier segmentation, and resale dynamics across 11 experiments—implemented both **from scratch** and with **industrial libraries (Scikit-Learn, XGBoost, LightGBM)**.
 
